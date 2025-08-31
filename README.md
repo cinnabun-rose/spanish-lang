@@ -1,4 +1,4 @@
-# The English Programming Language
+# The Spanish Programming Language
 
 ![Static Badge](https://img.shields.io/badge/version-1.2025.0-blue) ![Static Badge](https://img.shields.io/badge/status-stable-green) ![Static Badge](https://img.shields.io/badge/forks-30-red) ![GitHub Repo stars](https://img.shields.io/github/stars/theletterf/english-lang)
 
