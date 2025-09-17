@@ -69,7 +69,7 @@ Code comments are added using parentheses or round brackets. Unlike other progra
 (No sé qué estoy haciendo.)
 ```
 
-Spanish operators can be overloaded, although this is not recommended by the ENG23 committee.
+Spanish operators can be overloaded, although this is not recommended by the Royal Spanish Academia (RAE) committee.
 
 ### Statements and control flow
 
